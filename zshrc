@@ -24,3 +24,6 @@ function mkcd() {
 
 # Others
 
+# Exports
+export PATH=/opt/homebrew/bin:$PATH
+
