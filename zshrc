@@ -1,4 +1,4 @@
-echo 'Hello from .zshrc'
+echo 'New .zshrc shell'
 
 # === Set Variables ===
 
