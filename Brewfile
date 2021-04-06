@@ -12,12 +12,35 @@ brew "git"
 brew "mas"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.9"
+# JavaScript package manager
+brew "yarn"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
 # Application launcher and productivity software
 cask "alfred"
+# Voice and text chat software
+cask "discord"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
+cask "figma"
+# IDE for Java development - community edition
+cask "intellij-idea-ce"
+cask "microsoft-teams"
+# App to write, plan, collaborate, and get organized
+cask "notion"
+# Free and open-source IDE for Python programming - Community Edition
+cask "pycharm-ce"
+# Team communication and collaboration software
+cask "slack"
+# Music streaming service
+cask "spotify"
 # Open-source code editor
 cask "visual-studio-code"
+# Desktop client for WhatsApp
+cask "whatsapp"
+# Video communication and virtual meeting platform
+cask "zoom"
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
 mas "Xcode", id: 497799835
