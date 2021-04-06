@@ -23,6 +23,8 @@ cask "discord"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
 cask "figma"
+# Web browser
+cask "google-chrome"
 # IDE for Java development - community edition
 cask "intellij-idea-ce"
 cask "microsoft-teams"
