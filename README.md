@@ -20,7 +20,7 @@ brew search ${NAME}
 
 brew install ${NAME}
 
-// To regenerate Brewfile.lock.json
+// To regenerate Brewfile
 brew bundle dump --force --describe 
 ```
 
