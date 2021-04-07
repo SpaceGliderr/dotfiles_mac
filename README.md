@@ -21,7 +21,8 @@ brew search ${NAME}
 
 brew install ${NAME}
 
-brew bundle dump --force --describe # To regenerate Brewfile.lock.json
+// To regenerate Brewfile.lock.json
+brew bundle dump --force --describe 
 ```
 
 ## Using MAS CLI
@@ -35,5 +36,6 @@ _Pro tip: You can install the application from the app store and run `brew bundl
 
 ## Using Dotbot
 ```
-./install # Runs the installation executable
+// Runs the installation executable
+./install 
 ```
