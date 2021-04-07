@@ -39,6 +39,8 @@ _Pro tip: You can install the application from the app store and run `brew bundl
 ./install 
 ```
 
+_Note: The `install.conf.yaml` is where symlinks, directories, are created. It is also where shell scripts are executed._
+
 ---
 
 # References
