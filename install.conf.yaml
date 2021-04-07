@@ -15,7 +15,9 @@
 - create:
     - ~/Development
     - ~/Development/Personal
+    - ~/Development/Personal/Flutter
     - ~/Development/University
+    - ~/Development/University/Artificial Intelligence
     - ~/Development/Work
 
 - shell:
