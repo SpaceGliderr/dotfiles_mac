@@ -18,6 +18,8 @@ brew "yarn"
 brew "eth-p/software/bat-extras"
 # Application launcher and productivity software
 cask "alfred"
+# Tools for building Android applications
+cask "android-studio"
 # Voice and text chat software
 cask "discord"
 # Client for the Dropbox cloud storage service
