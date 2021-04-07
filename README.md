@@ -24,6 +24,15 @@ brew install ${NAME}
 brew bundle dump --force --describe # To regenerate Brewfile.lock.json
 ```
 
+## Using MAS CLI
+```
+mas search ${APP_NAME}
+
+mas install ${APP_ID}
+```
+
+_Pro tip: You can install the application from the app store and run `brew bundle dump --force --describe` after to automatically add the `mas` commands to the Brewfile_
+
 ## Using Dotbot
 ```
 ./install # Runs the installation executable
