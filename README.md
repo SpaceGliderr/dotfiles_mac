@@ -45,7 +45,6 @@ _Pro tip: You can install the application from the app store and run `brew bundl
 
 ### 📖 Udemy Course 
 - Course link: https://www.udemy.com/course/dotfiles-from-start-to-finish-ish/
-- Or: <a href="dotfiles.eieio.xyz">dotfiles.eieio.xyz</a>
 
 ### 🌐 GitHub Repositories Used
 - Dotbot: https://github.com/anishathalye/dotbot
