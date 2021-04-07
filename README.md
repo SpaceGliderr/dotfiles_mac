@@ -57,6 +57,7 @@ _Note: The `install.conf.yaml` is where symlinks, directories, are created. It i
 
 ### 👀 GitHub Issue Tracker
 - Sign in issue with MAS CLI: https://github.com/mas-cli/mas/issues/164
+- Removing .DS_Store from repo: https://github.com/2DegreesInvesting/resources/issues/115
 
 ### 📚 Additional Resources
 - Dotfiles framework: http://dotfiles.github.io/frameworks/
