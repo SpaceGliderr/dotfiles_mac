@@ -10,6 +10,7 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 alias ls='exa -laFh --git' # Use `command ls` to access original command
 alias exa='exa -laFh --git'
 alias man=batman
+alias sc='source ~/.zshrc'
 alias personal='cd ~/Development/Personal'
 alias work='cd ~/Development/Work'
 alias uni='cd ~/Development/University'
