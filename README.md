@@ -1,8 +1,7 @@
 # 💻 dotfiles_mac 🍎
 
 ## Purpose
-📁 Dotfiles repository for my MB-Air M1 2020. 
-📖 Followed a Udemy course to get started: dotfiles.eieio.xyz
+📁 Dotfiles repository for my MB-Air M1 2020.\nFollowed a Udemy course to get started, link in references.
 
 ## Goals
 - Gain in-depth knowledege about dotfiles.
@@ -39,3 +38,24 @@ _Pro tip: You can install the application from the app store and run `brew bundl
 // Runs the installation executable
 ./install 
 ```
+
+---
+
+# References
+
+### 📖 Udemy Course 
+- Course link: https://www.udemy.com/course/dotfiles-from-start-to-finish-ish/
+- Or: <a href="dotfiles.eieio.xyz">dotfiles.eieio.xyz</a>
+
+### 🌐 GitHub Repositories Used
+- Dotbot: https://github.com/anishathalye/dotbot
+- Homebrew: https://github.com/Homebrew/brew
+- Mas CLI: https://github.com/mas-cli/mas
+- Exa (alternative to `ls`): https://github.com/ogham/exa
+- Bat (syntax highlighting for CLI): https://github.com/eth-p/bat-extras
+
+### 👀 GitHub Issue Tracker
+- Sign in issue with MAS CLI: https://github.com/mas-cli/mas/issues/164
+
+### 📚 Additional Resources
+- Dotfiles framework: http://dotfiles.github.io/frameworks/
