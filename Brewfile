@@ -4,6 +4,8 @@ tap "homebrew/cask"
 tap "homebrew/core"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Dependency manager for Cocoa projects
+brew "cocoapods"
 # Modern replacement for 'ls'
 brew "exa"
 # Distributed revision control system
@@ -25,6 +27,8 @@ cask "discord"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
 cask "figma"
+# UI toolkit for building applications for mobile, web and desktop
+cask "flutter"
 # Web browser
 cask "google-chrome"
 # IDE for Java development - community edition
