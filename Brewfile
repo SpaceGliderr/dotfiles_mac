@@ -24,6 +24,8 @@ cask "alfred"
 cask "android-studio"
 # Voice and text chat software
 cask "discord"
+# Client for the Dropbox cloud storage service
+cask "dropbox"
 cask "figma"
 # UI toolkit for building applications for mobile, web and desktop
 cask "flutter"
