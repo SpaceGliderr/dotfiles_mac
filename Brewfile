@@ -33,6 +33,8 @@ cask "flutter"
 cask "google-chrome"
 # IDE for Java development - community edition
 cask "intellij-idea-ce"
+# System monitoring app
+cask "istat-menus"
 cask "microsoft-teams"
 # App to write, plan, collaborate, and get organized
 cask "notion"
