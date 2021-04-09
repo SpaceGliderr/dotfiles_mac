@@ -42,8 +42,6 @@ cask "istat-menus"
 cask "microsoft-teams"
 # App to write, plan, collaborate, and get organized
 cask "notion"
-# GUI client for PostgreSQL databases
-cask "postico"
 # Free and open-source IDE for Python programming - Community Edition
 cask "pycharm-ce"
 # Team communication and collaboration software
