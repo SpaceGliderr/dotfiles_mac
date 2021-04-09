@@ -31,6 +31,8 @@ cask "figma"
 cask "flutter"
 # Web browser
 cask "google-chrome"
+# HTTP and GraphQL Client
+cask "insomnia"
 # IDE for Java development - community edition
 cask "intellij-idea-ce"
 # System monitoring app
