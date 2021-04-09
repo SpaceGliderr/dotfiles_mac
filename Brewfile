@@ -12,6 +12,8 @@ brew "exa"
 brew "git"
 # Mac App Store command-line interface
 brew "mas"
+# Object-relational database system
+brew "postgresql"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.9"
 # JavaScript package manager
@@ -40,6 +42,8 @@ cask "istat-menus"
 cask "microsoft-teams"
 # App to write, plan, collaborate, and get organized
 cask "notion"
+# GUI client for PostgreSQL databases
+cask "postico"
 # Free and open-source IDE for Python programming - Community Edition
 cask "pycharm-ce"
 # Team communication and collaboration software
