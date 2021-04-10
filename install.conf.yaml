@@ -19,6 +19,7 @@
     - ~/Development/University
     - ~/Development/University/Artificial Intelligence
     - ~/Development/Work
+    - ~/Personal
 
 - shell:
     - command: ./setup_homebrew.zsh
