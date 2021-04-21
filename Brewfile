@@ -10,6 +10,8 @@ brew "cocoapods"
 brew "exa"
 # Distributed revision control system
 brew "git"
+# Image manipulation library
+brew "jpeg"
 # Mac App Store command-line interface
 brew "mas"
 # Object-relational database system
@@ -22,12 +24,15 @@ brew "yarn"
 brew "eth-p/software/bat-extras"
 # Application launcher and productivity software
 cask "alfred"
+# Distribution of the Python and R programming languages for scientific computing
+cask "anaconda"
 # Tools for building Android applications
 cask "android-studio"
 # Voice and text chat software
 cask "discord"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
+# Collaborative team software
 cask "figma"
 # UI toolkit for building applications for mobile, web and desktop
 cask "flutter"
@@ -54,6 +59,7 @@ cask "visual-studio-code"
 cask "whatsapp"
 # Video communication and virtual meeting platform
 cask "zoom"
+mas "HP Smart", id: 1474276998
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Word", id: 462054704
